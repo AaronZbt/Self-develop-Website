@@ -219,9 +219,3 @@ a:focus-visible {
 ul:is(:focus-within, :hover) {
   --active: 1;
 }
-
-
-
-.telescopic_button{
-
-}
